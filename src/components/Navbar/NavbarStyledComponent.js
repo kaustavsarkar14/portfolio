@@ -139,6 +139,7 @@ export const MobileMenu = styled.div`
     border-radius: 0 0 20px 20px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
     opacity: ${({ isOpen }) => (isOpen ? '100%' : '0')};
+    backdrop-filter: blur(10px);
     z-index: ${({ isOpen }) => (isOpen ? '1000' : '-1000')};
 
 `

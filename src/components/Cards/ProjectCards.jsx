@@ -43,6 +43,7 @@ const Image = styled.img`
     height: 180px;
     background-color: ${({ theme }) => theme.white};
     border-radius: 10px;
+    object-fit: cover;
     box-shadow: 0 0 16px 2px rgba(0,0,0,0.3);
 `
 

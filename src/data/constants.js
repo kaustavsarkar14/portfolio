@@ -120,7 +120,7 @@ export const experiences = [
       "Github",
       "JavaScript",
     ],
-    doc: "",
+    doc: "https://media.discordapp.net/attachments/750764661980397598/1146511155687346317/image.png?width=910&height=638",
   },
   {
     id: 0,
@@ -135,7 +135,7 @@ export const experiences = [
       "Embedded design",
       "C",
     ],
-    doc: "https://media.licdn.com/dms/image/D562DAQFMMUlRycN9uw/profile-treasury-image-shrink_8192_8192/0/1685116312308?e=1692558000&v=beta&t=LTrvZlQyYn341TsG1Ru9Thzgy70X0LUyHkZ63ohY3yM",
+    doc: "https://media.discordapp.net/attachments/750764661980397598/1146510994839978066/image.png?width=478&height=638",
   },
   {
     id: 1,
@@ -201,7 +201,7 @@ export const projects = [
     description:
       "Web application where you can create account to list your books for sale and can buy books from other sellers",
     image:
-      "https://media.licdn.com/dms/image/D562DAQGBWJhVm0gs3Q/profile-treasury-image-shrink_800_800/0/1690473188217?e=1692964800&v=beta&t=iMmhplKSDGdbMvRB7-uTady-dSJUSr2mjPsalhCRTFY",
+      "https://media.discordapp.net/attachments/750764661980397598/1146509877187985418/image.png?width=1248&height=637",
     tags: [
       "HTML",
       "CSS",
@@ -220,7 +220,7 @@ export const projects = [
     description:
       "The Weather App is a web application that fetches real-time weather data from the Weather API and presents it to the user in a user-friendly UI.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQECRvebHTEW-w/profile-treasury-image-shrink_800_800/0/1691488306705?e=1692964800&v=beta&t=3ueZReNqtcDo9IdM-5fxA3JqSsuh-YCIGwgu2QabpEs",
+      "https://media.discordapp.net/attachments/750764661980397598/1146510381871808594/image.png?width=1308&height=638",
     tags: ["React Js", "WeatherAPI",],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/weather-app",

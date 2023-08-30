@@ -276,7 +276,7 @@ export const projects = [
   },
   {
     id: 10,
-    title: "web app",
+    title: "Meme Generator",
     date: "Jul 2023 - Jul 2023",
     description:
       "A meme generator app where user can choose any template and add/drag customized text in the template.",

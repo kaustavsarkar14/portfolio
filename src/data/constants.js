@@ -164,7 +164,7 @@ export const projects = [
     date: "Jan 2024",
     description: "A MERN stack social media application with slick UI.",
     image:
-      "https://private-user-images.githubusercontent.com/93545845/308069935-f3d0c640-a514-43da-83f7-19a0965a3858.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMTgzNzEsIm5iZiI6MTcwOTExODA3MSwicGF0aCI6Ii85MzU0NTg0NS8zMDgwNjk5MzUtZjNkMGM2NDAtYTUxNC00M2RhLTgzZjctMTlhMDk2NWEzODU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI4VDExMDExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzZTQ3YWM2YWZhMTkzMzNhOTk2YTllNWVlYzdjMDE0NTViOTU0ZTc3ZDU0NmU3NGFmZTQ1ZTM2ZmE4MWI5MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MtfscRse7GmA-CwHHGSJJw3ZWe6syYcosSMls91HcGI",
+      "https://asset.cloudinary.com/dujoneujx/9c1bbb0517f3ab22ef3309ecb145b995",
     tags: [
       "React Js",
       "React Router DOM",
@@ -186,7 +186,7 @@ export const projects = [
     description:
       "A movie browsing app integrated with GPT 3.5 AI Search feature 🚀.",
     image:
-      "https://private-user-images.githubusercontent.com/93545845/292847160-6cd3a436-9f15-4c5f-bcd8-745c2690cce8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMTgwNDIsIm5iZiI6MTcwOTExNzc0MiwicGF0aCI6Ii85MzU0NTg0NS8yOTI4NDcxNjAtNmNkM2E0MzYtOWYxNS00YzVmLWJjZDgtNzQ1YzI2OTBjY2U4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI4VDEwNTU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlOWRkMWFiZTY1MzNjMjJkNWNlOWRkZDZhODg1MDA0YWY0NDlkMjcwZDY2OTJmMmRiYzEwYzZhMDk2OTVlNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oueT_e02KGQN6ZvsBsvf0x9QkB3ltI4nZ05O8MNVH-g",
+      "https://asset.cloudinary.com/dujoneujx/386e9c7cd9f05b6229c0255114ad7724",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/netflix-gpt",
@@ -199,7 +199,7 @@ export const projects = [
     description:
       "Web application where you can create account to list your books for sale and can buy books from other sellers",
     image:
-      "https://res.cloudinary.com/dujoneujx/image/upload/v1709117672/docs/wawusd8qz3wlmhv8j4zp.png",
+      "https://asset.cloudinary.com/dujoneujx/5f4c22f6337a54b6d7b40037043655a7",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/bookify",
@@ -221,7 +221,7 @@ export const projects = [
   // },
   {
     id: "crypto-hunter",
-    title: "Ecommerce App",
+    title: "Crypto Hunter",
     date: "May 2023 - May 2023",
     description:
       "A real-time Cryptocyrrency tracker app built using React Js and CoinGecko API 🚀.",

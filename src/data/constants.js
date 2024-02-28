@@ -164,7 +164,7 @@ export const projects = [
     date: "Jan 2024",
     description: "A MERN stack social media application with slick UI.",
     image:
-      "https://asset.cloudinary.com/dujoneujx/9c1bbb0517f3ab22ef3309ecb145b995",
+      "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709117672/docs/gdx013me2fyisz6uqtqz.jpg?_s=public-apps",
     tags: [
       "React Js",
       "React Router DOM",
@@ -186,7 +186,7 @@ export const projects = [
     description:
       "A movie browsing app integrated with GPT 3.5 AI Search feature 🚀.",
     image:
-      "https://asset.cloudinary.com/dujoneujx/386e9c7cd9f05b6229c0255114ad7724",
+      "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709126371/docs/292847160-6cd3a436-9f15-4c5f-bcd8-745c2690cce8_bh9m0g.jpg?_s=public-apps",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/netflix-gpt",
@@ -199,7 +199,7 @@ export const projects = [
     description:
       "Web application where you can create account to list your books for sale and can buy books from other sellers",
     image:
-      "https://asset.cloudinary.com/dujoneujx/5f4c22f6337a54b6d7b40037043655a7",
+      "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709117672/docs/wawusd8qz3wlmhv8j4zp.jpg?_s=public-apps",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/bookify",

@@ -1,15 +1,11 @@
 export const Bio = {
   name: "Kaustav Sarkar",
-  roles: [
-    "Front-End Developer🚀",
-    "Programmer🧑‍💻",
-    "NFT Artist🎨",
-  ],
+  roles: ["MERN Stack Developer🚀"],
   description:
-    "I am a passionate Front-End Developer and Programmer with a creative flair for crafting immersive digital experiences.I",
+    "I am a passionate developer with a creative flair for crafting immersive digital experiences ✨",
   github: "https://github.com/kaustavsarkar14",
   resume:
-    "https://drive.google.com/file/d/1WMfoviIQ_vSlV0l6moKy49cwPUZVjLms/view?usp=sharing",
+    "https://drive.google.com/file/d/1UtrQvCSY3JQU5-A16Y5_zyH7hVGAJTUR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kaustav-sarkar/",
   twitter: "https://twitter.com/kaustav_psd",
   insta: "https://www.instagram.com/kaustav.psd/",
@@ -34,9 +30,18 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
       {
+        name: "Redux Toolkit",
+        image: "https://cdn.worldvectorlogo.com/logos/redux.svg",
+      },
+      {
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+      {
+        name: "Tailwind CSS",
+        image:
+          "https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp",
       },
       {
         name: "Bootstrap",
@@ -78,13 +83,7 @@ export const skills = [
     skills: [
       {
         name: "Git",
-        image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
-      },
-      {
-        name: "GitHub",
-        image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
         name: "VS Code",
@@ -94,7 +93,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
       },
       {
         name: "Adobe Photoshop",
@@ -108,59 +107,24 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D560BAQHDmIfYA5sY7w/company-logo_200_200/0/1685777114980?e=1700092800&v=beta&t=VEqHjjfb51ilM53Zt8d8yS7tMbd8kmC_I9YPkC23g70",
-    role: "Web Developer Intern",
-    company: "CodSoft",
-    date: "Jul 2023 - Aug 2023",
-    desc: "Working on Web Development Projects",
-    skills: [
-      "HTML",
-      "CSS",
-      "Git",
-      "Github",
-      "JavaScript",
-    ],
-    doc: "https://media.discordapp.net/attachments/750764661980397598/1146511155687346317/image.png?width=910&height=638",
-  },
-  {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQFuu9kwD-3JGg/company-logo_200_200/0/1559791514594?e=1700092800&v=beta&t=kB3YtfWFQdKhfbT7XE-nWby1hOT7humxDd0yg5k2Nls",
+    img: "https://d1rz4ui464s6g7.cloudfront.net/wp-content/uploads/2020/09/01141237/kpit-log-green.jpg",
     role: "ASE Intern",
     company: "KPIT Technologies",
     date: "Jan 2023 - Mar 2023",
     desc: "Working on the Model-based designing using MATLAB & SIMULINK.",
-    skills: [
-      "MATLAB",
-      "SIMULINK",
-      "Embedded design",
-      "C",
-    ],
-    doc: "https://media.discordapp.net/attachments/750764661980397598/1146510994839978066/image.png?width=478&height=638",
+    skills: ["MATLAB", "SIMULINK", "Embedded design", "C"],
+    // doc: "https://media.discordapp.net/attachments/750764661980397598/1146510994839978066/image.png?width=478&height=638",
   },
-  {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597169?e=1700092800&v=beta&t=sDTBK7QLqX_3I_wGD_fiT0JzNdl9z9tPF45qcc2cUfY",
-    company: "Oasis Infobyte",
-    role: "Java Developer",
-    date: "Dec 2022 - Jan 2023",
-    desc: "",
-    skills: [
-      "Java",
-      "OOPS",
-      "Git",
-      "Github",
-    ],
-  },
+
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C560BAQHC_ug4zLmBxg/company-logo_200_200/0/1638459126113?e=1700092800&v=beta&t=Wd0qOlNlgg5BDHfkpbRiOA7kbkErqX3TcyIyTD8PSjs",
+    img: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/hacktoberfest%20logo.jpg",
     role: "Open Source Contributor ",
     company: "Hacktoberfest",
     date: "Nov 2022",
     desc: "Contributing to different open-source projects and learn from industry experts",
     doc: "",
   },
-  
 ];
 
 export const education = [
@@ -195,112 +159,88 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: "loop",
+    title: "LOOP - social media",
+    date: "Jan 2024",
+    description: "A MERN stack social media application with slick UI.",
+    image:
+      "https://private-user-images.githubusercontent.com/93545845/308069935-f3d0c640-a514-43da-83f7-19a0965a3858.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMTgzNzEsIm5iZiI6MTcwOTExODA3MSwicGF0aCI6Ii85MzU0NTg0NS8zMDgwNjk5MzUtZjNkMGM2NDAtYTUxNC00M2RhLTgzZjctMTlhMDk2NWEzODU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI4VDExMDExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzZTQ3YWM2YWZhMTkzMzNhOTk2YTllNWVlYzdjMDE0NTViOTU0ZTc3ZDU0NmU3NGFmZTQ1ZTM2ZmE4MWI5MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MtfscRse7GmA-CwHHGSJJw3ZWe6syYcosSMls91HcGI",
+    tags: [
+      "React Js",
+      "React Router DOM",
+      "Radix UI",
+      "Cloudinary",
+      "Tailwind CSS",
+      "Google Generative API",
+      "Razorpay",
+    ],
+    category: "web app",
+    github: "https://github.com/kaustavsarkar14/loop-frontend",
+    webapp: "https://loop-connect.vercel.app/",
+    member: [],
+  },
+  {
+    id: "netflix-gpt",
+    title: "Netflix GPT",
+    date: "Dec 2023",
+    description:
+      "A movie browsing app integrated with GPT 3.5 AI Search feature 🚀.",
+    image:
+      "https://private-user-images.githubusercontent.com/93545845/292847160-6cd3a436-9f15-4c5f-bcd8-745c2690cce8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMTgwNDIsIm5iZiI6MTcwOTExNzc0MiwicGF0aCI6Ii85MzU0NTg0NS8yOTI4NDcxNjAtNmNkM2E0MzYtOWYxNS00YzVmLWJjZDgtNzQ1YzI2OTBjY2U4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI4VDEwNTU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlOWRkMWFiZTY1MzNjMjJkNWNlOWRkZDZhODg1MDA0YWY0NDlkMjcwZDY2OTJmMmRiYzEwYzZhMDk2OTVlNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oueT_e02KGQN6ZvsBsvf0x9QkB3ltI4nZ05O8MNVH-g",
+    tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/kaustavsarkar14/netflix-gpt",
+    webapp: "https://netflix-gpt-1.vercel.app/",
+  },
+  {
+    id: "bookify",
     title: "Bookify",
     date: "Jun 2023 - Jul 2023",
     description:
       "Web application where you can create account to list your books for sale and can buy books from other sellers",
     image:
-      "https://media.discordapp.net/attachments/750764661980397598/1146509877187985418/image.png?width=1248&height=637",
-    tags: [
-      "HTML",
-      "CSS",
-      "React JS",
-      "Firebase",
-      "Bootstrap",
-    ],
+      "https://res.cloudinary.com/dujoneujx/image/upload/v1709117672/docs/wawusd8qz3wlmhv8j4zp.png",
+    tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/bookify",
     webapp: "https://bookify-c9fa8.web.app/",
   },
+  // {
+  //   id: 0,
+  //   title: "Weather App",
+  //   date: "Jul 2023 -  2023",
+  //   description:
+  //     "The Weather App is a web application that fetches real-time weather data from the Weather API and presents it to the user in a user-friendly UI.",
+  //   image:
+  //     "https://media.discordapp.net/attachments/750764661980397598/1146510381871808594/image.png?width=1308&height=638",
+  //   tags: ["React Js", "WeatherAPI"],
+  //   category: "web app",
+  //   github: "https://github.com/kaustavsarkar14/weather-app",
+  //   webapp: "https://weather-app-two-rouge.vercel.app/",
+  //   member: [],
+  // },
   {
-    id: 0,
-    title: "Weather App",
-    date: "Jul 2023 -  2023",
-    description:
-      "The Weather App is a web application that fetches real-time weather data from the Weather API and presents it to the user in a user-friendly UI.",
-    image:
-      "https://media.discordapp.net/attachments/750764661980397598/1146510381871808594/image.png?width=1308&height=638",
-    tags: ["React Js", "WeatherAPI",],
-    category: "web app",
-    github: "https://github.com/kaustavsarkar14/weather-app",
-    webapp: "https://weather-app-two-rouge.vercel.app/",
-    member: [
-    ],
-  },
-  {
-    id: 1,
+    id: "crypto-hunter",
     title: "Ecommerce App",
     date: "May 2023 - May 2023",
     description:
-      "Ecommerce app made using React JS and Firebase. User can create account , login using credentials and add items to cart. Used react router dom to navigate between homepage, login, page, register page and cart page.. Managed state of the cart items using Context API.",
+      "A real-time Cryptocyrrency tracker app built using React Js and CoinGecko API 🚀.",
     image:
-      "https://media.discordapp.net/attachments/750764661980397598/1142059598375817267/image.png?width=1223&height=638",
+      "https://github.com/kaustavsarkar14/crypto-hunter/assets/93545845/b6097143-4bd6-49b5-9d85-0d30bce65893",
     tags: [
       "React Js",
-      "Firebase",
-      "CSS",
+      "Coingecko API",
+      "Chart JS",
+      "Framer Motion",
       "Material UI",
     ],
     category: "web app",
-    github: "https://github.com/kaustavsarkar14/amazon-clone",
-    webapp: "https://amazon-clone-app02.netlify.app/",
+    github: "https://github.com/kaustavsarkar14/crypto-hunter",
+    webapp: "https://crypto-hunter-three.vercel.app/",
   },
-  {
-    id: 2,
-    title: "IMDB - movie browser",
-    date: "Nov 2022 - Nov 2022",
-    description:
-      "An Web app where user can browse through movies.There are sections for popular, top rated and upcoming movies.",
-    image:
-      "https://media.discordapp.net/attachments/750764661980397598/1142059512480682025/image.png?width=1226&height=638",
-    tags: ["React Js", "React Router DOM", "TMDB API",],
-    category: "web app",
-    github: "https://imdb-clone-webapp.netlify.app/",
-    webapp: "https://imdb-clone-webapp.netlify.app/",
-    member: [
-    ],
-  },
-  {
-    id: 3,
-    title: "TIC-TAC-TOE",
-    date: "Jul 2023 - Jul 2023",
-    description:
-      "Simple TIC TAC TOE game using React JS",
-    image:
-      "https://media.discordapp.net/attachments/750764661980397598/1142061331533533285/image.png?width=670&height=638",
-    tags: ["React JS"],
-    category: "game",
-    github: "https://github.com/kaustavsarkar14/tic-tac-toe",
-    webapp: "https://tic-tac-toe-eight-wine.vercel.app/",
-  },
-  {
-    id: 10,
-    title: "Meme Generator",
-    date: "Jul 2023 - Jul 2023",
-    description:
-      "A meme generator app where user can choose any template and add/drag customized text in the template.",
-    image:
-      "https://media.discordapp.net/attachments/750764661980397598/1142062228321861651/image.png?width=1177&height=638",
-    tags: ["React JS", "Meme API"],
-    category: "android app",
-    github: "https://github.com/kaustavsarkar14/meme-generator",
-    webapp: "https://meme-generator-ruby-theta.vercel.app/",
-  },
-  {
-    id: 10,
-    title: "Guess the Number",
-    date: "Oct 2022 - Oct 2023",
-    description:
-      "A game where user can predict the number generated randomly. User will score according to the number of attempts.",
-    image:
-      "https://media.discordapp.net/attachments/750764661980397598/1142063709343187055/image.png?width=1253&height=638",
-    tags: ["HTML", "CSS", "JS"],
-    category: "game",
-    github: "https://github.com/kaustavsarkar14/Guess-The-Number",
-    webapp: "https://guess-the-number-by-kaustav.netlify.app/",
-  },
-  
+
+
+ 
 ];
 
 export const TimeLineData = [

@@ -11,7 +11,7 @@ const Projects = ({openModal,setOpenModal}) => {
     <Container id="projects">
       <Wrapper>
         <Title>Projects</Title>
-        <Desc>
+        {/* <Desc>
           Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
@@ -32,7 +32,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="web app" onClick={() => setToggle('game')}>GAMES</ToggleButton>
           }
-        </ToggleButtonGroup>
+        </ToggleButtonGroup> */}
         <CardContainer>
           {toggle === 'all' && projects
             .map((project) => (

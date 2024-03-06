@@ -187,7 +187,7 @@ export const projects = [
       "A movie browsing app integrated with GPT 3.5 AI Search feature 🚀.",
     image:
       "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709126371/docs/292847160-6cd3a436-9f15-4c5f-bcd8-745c2690cce8_bh9m0g.jpg?_s=public-apps",
-    tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
+    tags: ["React JS", "Tailwind CSS", "TMDB API", "Firebase"],
     category: "web app",
     github: "https://github.com/kaustavsarkar14/netflix-gpt",
     webapp: "https://netflix-gpt-1.vercel.app/",
